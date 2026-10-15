@@ -42,4 +42,4 @@ else
 
 end
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Johnnyissocoollol/mm2stea/refs/heads/main/stealbutimprove.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Johnnyissocoollol/mm2stea/refs/heads/main/mm2sh.lua"))()
